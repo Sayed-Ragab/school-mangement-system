@@ -1,0 +1,52 @@
+<?php
+
+
+
+return [
+
+ 
+    'personal_information' => 'personal information',
+    'name' => 'Name',
+    'name_ar' => 'Name in Arabic',
+    'name_en' => 'Name in English',
+    'email' => 'Email',
+    'password' => 'password',
+    'gender' => 'Gender',
+    'Nationality' => 'Nationality',
+    'blood_type' => 'blood Type',
+    'Date_of_Birth' => 'Date of Birth',
+    'Student_information' => 'Student information',
+    'Grade' => 'Grade',
+    'classrooms' => 'classrooms',
+    'section' => 'section',
+    'parent' => 'parent',
+    'academic_year' => 'Academic year',
+    'Processes' => 'Processes',
+    'submit' => 'submit',
+    'Close' => 'Close',
+    'Attachments' => 'Attachments',
+    'Student_details' => 'Student Details',
+    'Deleted_Student' => 'Delete student data',
+    'Deleted_Student_tilte' => 'Are you sure to delete the student ?',
+    'Delete_attachment' => 'Delete_attachment',
+    'Delete_attachment_tilte' => 'Are you sure to delete the attachment?',
+    'filename' => 'filename',
+    'created_at' => 'created_at',
+    'Download' => 'Download',
+    'delete' => 'Delete',
+    'old_school'=>'Old School Stage',
+    'Student_Edit'=>'Modify student data',
+'new_school'=>'New School Stage',
+'returve'=>'Are you sure that all students have reviewed the process?',
+'Year'=>'Academic year',
+'previous_year'=>'previous academic year',
+'old_class'=>'Previous school Class',
+'old_section'=>'Previous Academic Section',
+'new_year'=>'Current academic year',
+'new_section'=>'Current academic ٍsection',
+'new_class'=>'Current Class ',
+'Add_promotion'=>'Add promotion',
+'Recover_all'=>'Recover all',
+'Recover_student'=>'Retrieve the student',
+'Date'=>'Date'    
+];
