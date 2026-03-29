@@ -11,8 +11,7 @@ Designed and enforced role-based access control (RBAC) for Admin, Teacher, Stude
 Technologies: PHP, Laravel, MySQL, JavaScript, AJAX, HTML, CSS
 
 Project Setup Instructions
-1- open cmd or terminal and write git clone https://github.com/Sayed-Ragab/Hospital-mangement-system.git
-
+1- open cmd or terminal and write git clone https://github.com/Sayed-Ragab/school-mangement-system.git
 2- copy .env.example to .env 
 3- composer install
 4- php artisan key:generate.
